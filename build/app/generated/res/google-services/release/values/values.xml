@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">577702847852-dtp1i82i8k63tcu1gkmcu4ga5vp47dcn.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://animation-login.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">577702847852</string>
+    <string name="google_api_key" translatable="false">AIzaSyADs6rNDMg-hqi90nAAxDQNZWjxht1Vx3U</string>
+    <string name="google_app_id" translatable="false">1:577702847852:android:bb1e50fdd8e608877bff49</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyADs6rNDMg-hqi90nAAxDQNZWjxht1Vx3U</string>
+    <string name="google_storage_bucket" translatable="false">animation-login.appspot.com</string>
+    <string name="project_id" translatable="false">animation-login</string>
+</resources>

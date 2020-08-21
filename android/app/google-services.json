@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577702847852",
+    "firebase_url": "https://animation-login.firebaseio.com",
+    "project_id": "animation-login",
+    "storage_bucket": "animation-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577702847852:android:bb1e50fdd8e608877bff49",
+        "android_client_info": {
+          "package_name": "com.example.animation_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577702847852-dtp1i82i8k63tcu1gkmcu4ga5vp47dcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADs6rNDMg-hqi90nAAxDQNZWjxht1Vx3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577702847852-dtp1i82i8k63tcu1gkmcu4ga5vp47dcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
